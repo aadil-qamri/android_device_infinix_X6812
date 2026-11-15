@@ -9,5 +9,5 @@ export FOX_VANILLA_BUILD=1
 # Device uses Keymaster 4.0
 export OF_DEFAULT_KEYMASTER_VERSION=4.0
 
-# Reduce recovery image size
-export FOX_COMPRESS_EXECUTABLES=1
+# Aggressive recovery image size reduction
+export FOX_DRASTIC_SIZE_REDUCTION=1
